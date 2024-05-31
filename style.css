@@ -134,9 +134,6 @@ button{
     .container{
         width: auto;
         padding: 20px 20px;
-        flex-direction: column;
-        height: 90%;
-        max-width: 90vw;
     }
     h1 {
         font-size: 1.5rem;
@@ -147,16 +144,16 @@ button{
         text-align: center;
     }
     #guess-field{
-        width: auto;
+        width: 250px;
     }
     #newGame {
-        width: auto;
+        width: 220px;
         text-align: center;
         margin: 0 auto;
         margin-top: 20px;
     }
     #sub{
-        width: auto;
+        width: 220px;
     }
 }
 
