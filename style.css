@@ -147,16 +147,16 @@ button{
         text-align: center;
     }
     #guess-field{
-        width: 300px;
+        width: auto;
     }
     #newGame {
-        width: 300px;
+        width: auto;
         text-align: center;
         margin: 0 auto;
         margin-top: 20px;
     }
     #sub{
-        width: 300px;
+        width: auto;
     }
 }
 
