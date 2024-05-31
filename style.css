@@ -132,7 +132,7 @@ button{
         padding: 25px 25px;
         }
     .container{
-        width: 250px;
+        width: auto;
         padding: 20px 20px;
     }
     h1 {
